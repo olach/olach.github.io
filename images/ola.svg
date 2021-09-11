@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="360px" height="120px" viewBox="0 0 360 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>ola</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="ola" sketch:type="MSArtboardGroup" fill="#191919">
+            <g id="Oval-1-Copy-+-Rectangle-1-Copy-+-Triangle-1-Copy" sketch:type="MSLayerGroup" transform="translate(8.000000, 7.000000)">
+                <circle id="Oval-1-Copy" sketch:type="MSShapeGroup" cx="53" cy="53" r="53"></circle>
+                <rect id="Rectangle-1-Copy" sketch:type="MSShapeGroup" x="124" y="3" width="96" height="100" rx="7"></rect>
+                <path d="M286.378453,5.74412567 C288.931886,0.842752625 293.072676,0.84439563 295.625253,5.74412567 L342.007173,94.7752729 C344.560606,99.676646 342.148683,103.649994 336.634764,103.649994 L245.368942,103.649994 C239.848409,103.649994 237.443956,99.675003 239.996533,94.7752729 L286.378453,5.74412567 L286.378453,5.74412567 Z" id="Triangle-1-Copy" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
